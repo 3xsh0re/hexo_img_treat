@@ -1,5 +1,5 @@
 {
-  "name": "hexo_img_treat",
+  "name": "hexo-img-treat",
   "version": "1.0.0",
   "description": "用于转换hexo图片显示不兼容typora的格式问题",
   "main": "index.js",
